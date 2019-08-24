@@ -1,0 +1,12 @@
+D:\Taskk\Taskk\bin\Taskk.dll.config
+D:\Taskk\Taskk\bin\Taskk.dll
+D:\Taskk\Taskk\bin\Taskk.pdb
+D:\Taskk\Taskk\obj\Debug\Taskk.dll
+D:\Taskk\Taskk\obj\Debug\Taskk.pdb
+D:\Taskk\Taskk\obj\Debug\Taskk.csprojResolveAssemblyReference.cache
+E:\Local Disk\visual Studio Project\Taskk2\Taskk\bin\Taskk.dll.config
+E:\Local Disk\visual Studio Project\Taskk2\Taskk\bin\Taskk.dll
+E:\Local Disk\visual Studio Project\Taskk2\Taskk\bin\Taskk.pdb
+E:\Local Disk\visual Studio Project\Taskk2\Taskk\obj\Debug\Taskk.csprojResolveAssemblyReference.cache
+E:\Local Disk\visual Studio Project\Taskk2\Taskk\obj\Debug\Taskk.dll
+E:\Local Disk\visual Studio Project\Taskk2\Taskk\obj\Debug\Taskk.pdb
